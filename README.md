@@ -9,8 +9,10 @@ An investor wants to learn about the weather in Oahu, Hawaii, before committing 
 
 ## Analysis Results
 - In our data of the area we can see that for the month of June; the average temperature was 74.9°, and the lowest and highest temperatures reaching 64° and 85° respectively.
+
 ![June_Temps](challenge/resources/june_temps.png)
 - For the month of December; the average temperature was 71.0°, and the lowest and highest temperatures reaching 56° and 83° respectively.
+
 ![Dec_Temps](challenge/resources/dec_temps.png)
 - The standard deviation in the area's temperature in the month of June is 3.26, and increases to 3.75 in the month of December.
 
